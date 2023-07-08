@@ -8,5 +8,5 @@ public class DetallePedidoServiceMessages {
     public static final String VALOR_REQUERIDO = "El valor no debe ser nulo";
     public static final String PEDIDO_REQUERIDO = "El pedido es requerido";
     public static final String PRODUCTO_REQUERIDO = "El producto es requerido";
-
+    public static final String NO_HAY_UNIDADES_SUFICIENTES = "No hay suficientes unidades del producto seleccionado";
 }
